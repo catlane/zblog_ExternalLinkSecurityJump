@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plugin version="php">
+<id>ExternalLinkSecurityJump</id>
+<name>文章外链转内链安全跳转</name>
+<url>https://www.lovyou.top/post/167.html</url>
+<note>文章外链转内链安全跳转</note>
+<description>文章外链跳转／文章外链转内链／链接点击记录／SEO / 文章内域名验证</description>
+<path>main.php</path>
+<include>include.php</include>
+<level>1</level>
+<author>
+  <name>catlane</name>
+  <email>catlane@foxmail.com</email>
+  <url>https://www.lovyou.top</url>
+</author>
+<source>
+  <name></name>
+  <email></email>
+  <url></url>
+</source>
+<adapted>151935</adapted>
+<version>1.2</version>
+<pubdate>2019-04-10</pubdate>
+<modified>2019-04-12</modified>
+<price>0</price>
+<phpver>5.6</phpver>
+<advanced>
+  <dependency></dependency>
+  <rewritefunctions></rewritefunctions>
+  <existsfunctions></existsfunctions>
+  <conflict></conflict>
+</advanced>
+<sidebars>
+  <sidebar1></sidebar1>
+  <sidebar2></sidebar2>
+  <sidebar3></sidebar3>
+  <sidebar4></sidebar4>
+  <sidebar5></sidebar5>
+</sidebars>
+</plugin>
